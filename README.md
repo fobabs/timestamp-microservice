@@ -15,8 +15,8 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`
 
 ### Example Usage
 
-* https://fobabs.github.io/timestamp-microservice/api/timestamp/2017-09-12
-* https://fobabs.github.io/timestamp-microservice/api/timestamp/1505174400000
+* https://fobabs-timestamp-microservice-1.glitch.me/api/timestamp/2017-09-12
+* https://fobabs-timestamp-microservice-1.glitch.me/api/timestamp/1505174400000
 
 ### Example Output
 
