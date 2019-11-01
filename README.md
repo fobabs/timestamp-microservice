@@ -1,6 +1,6 @@
 # API Project: Timestamp Microservice for freeCodeCamp
 
-### User Stories: 
+## User Stories: 
 
 1. The API endpoint is `GET [project_url]/api/timestamp/:date_string?`
 2. A date string is valid if can be successfully parsed by `new Date(date_string)`.
